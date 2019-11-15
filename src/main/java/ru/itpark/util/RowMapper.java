@@ -1,4 +1,4 @@
-package ru.itpark.Util;
+package ru.itpark.util;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
